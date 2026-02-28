@@ -1,6 +1,6 @@
 # streamdl
 
-A minimal CLI tool to search, stream, and download movies and TV shows via torrent. Built with Python.
+A minimal CLI tool to search, stream, and download movies and TV shows via torrent. Built with Python. With future integration into mind as a stremio addon. This removes the bloat between stremio's bulky addons and load times of your shows.
 
 ## How it works
 
