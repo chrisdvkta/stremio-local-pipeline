@@ -1,0 +1,10 @@
+[project]
+name = "movie"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "qbittorrent-api>=2025.11.1",
+]
