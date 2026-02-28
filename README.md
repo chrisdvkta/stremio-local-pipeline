@@ -70,13 +70,6 @@ For TV shows, you'll also be prompted for season and episode number.
 - Torrent sources and quality are sorted by Torrentio (4K → 1080p → 720p)
 - Downloads are saved to `DOWNLOAD_DIR` and persist after playback
 
-## Planned
-
-- [ ] Subtitle auto-download via OpenSubtitles
-- [ ] VLC path fix for filenames with special characters
-- [ ] Config file instead of hardcoded values
-- [ ] Better fuzzy search
-
 ## License
 
 MIT
